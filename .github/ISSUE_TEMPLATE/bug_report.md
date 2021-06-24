@@ -12,7 +12,7 @@ Please fill in the following information.
 
 **Basic details**
 - **Are you using Java 8, 64-bit?**: no / yes
-- **Did you add any additional mods?**: yes (detail) / no
+- **Did you add any additional mods**: yes (detail) / no
 - **Crash/latest log link (if applicable)**: link to log / not applicable
 
 <!--
