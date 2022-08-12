@@ -16,7 +16,7 @@ Please fill in the following information.
 - **Crash/latest log link (if applicable)**: link to log / not applicable
 
 <!--
-Please post game log links using a paste-tool such as https://paste.ubuntu.com or https://pastebin.com/index.
+Please post game log links using a paste-tool such as https://mclo.gs/ or https://pastebin.com/index.
 DO NOT paste the log into the issue. It will make your issue hard to read.
 -->
 
